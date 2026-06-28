@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+set -euo pipefail
+bash <(curl -fsSL https://raw.githubusercontent.com/jayanthraju343-blip/JAYANTH-Cloud/refs/heads/main/menu/UI.sh)
 # ==========================================================
 # JAYANTH SYSTEM | BANE-ANMESH 1S UPLINK
 # DATE: 2026-04-08 | UI-TYPE: SEMA-HYPER-VISUAL → VIP ELITE
